@@ -1,0 +1,26 @@
+body{
+    font-family: 'Varela Round', sans-serif;
+    background-color: #1e272e;
+}
+.head-1{
+    color: #ff3f34;
+    font-size: 35px;
+}
+.head-2{
+    color: #728394;
+    font-size: 22px;
+}
+.head-3{
+    color: #e7e7e7;
+    font-size: 19px;
+    display: block;
+    text-align: center;
+}
+.page-footer{
+    background-color: #282f3a;
+    color: #FFFFFF;
+}
+.icon-1{
+    font-size: 18px !important;
+    color: #E74C3C;
+}
